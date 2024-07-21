@@ -11,7 +11,7 @@
 URL: https://atcoder.jp/users/yuu_w
 ### Rating
 * AtCoder Algorithm部門 Rating 1632 (青色)
-* AtCoder Heuristic部門 Rating 1536 (水色)
+* AtCoder Heuristic部門 Rating 1607 (青色)
 
 ## 研究
  研究室未配属
