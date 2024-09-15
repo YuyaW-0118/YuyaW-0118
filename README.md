@@ -10,8 +10,8 @@
 2023年2月からAtCoderに、主にC++を用いて参加しています。<br>
 URL: https://atcoder.jp/users/yuu_w
 ### Rating
-* AtCoder Algorithm部門 Rating 1632 (青色)
-* AtCoder Heuristic部門 Rating 1607 (青色)
+* AtCoder Algorithm部門 Rating 1740 (青色)
+* AtCoder Heuristic部門 Rating 1664 (青色)
 
 ## 研究
  研究室未配属
