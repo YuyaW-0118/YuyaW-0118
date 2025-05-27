@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bf6c1871-84d3-4589-b140-b8a62acbc168)# yuu_w's plofile
+# yuu_w's profile
 
 ## 経歴
 * 2022年3月 栃木県立宇都宮東高等学校 卒業
@@ -10,7 +10,7 @@
 2023年2月からAtCoderに、主にC++を用いて参加しています。<br>
 URL: https://atcoder.jp/users/yuu_w
 ### Rating
-* AtCoder Algorithm部門 Rating 1921 (青色)
+* AtCoder Algorithm部門 Rating 1940 (青色)
    - 最高パフォーマンス: ABC392 105位 / 10833人 パフォーマンス2400(橙)
 * AtCoder Heuristic部門 Rating 1911 (青色)
    - 最高パフォーマンス: AHC036 100位 / 789人 パフォーマンス2007(黄)
