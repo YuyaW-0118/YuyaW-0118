@@ -22,8 +22,7 @@ URL: https://atcoder.jp/users/yuu_w
   - 研究内容: 大規模連立一次方程式解法の高度化
 
 ## インターン
-* 2024年7月~ AI関連企業のAlgorithm Engineer Intern
- - ![image](https://github.com/user-attachments/assets/090a20c4-0510-48f0-b241-cb422fa8d155)
+* 2024年7月~ AI関連企業のAlgorithm Engineer Intern   
 
 
 ## 趣味
